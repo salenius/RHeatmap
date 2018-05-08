@@ -1,2 +1,2 @@
 # RHeatmap
-Developing heatmap to study financial markets
+Developing a heatmap for studying financial markets.
